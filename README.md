@@ -1,7 +1,3 @@
-Absolutely! Here’s your full **GitHub-ready README.md** formatted in Markdown, polished and ready to paste directly into your repository:
-
-```markdown
-# 🧠 SemanticEdge-Trans
 
 ### Semantic-Aware Kidney Image Transmission & Reconstruction for Low-Bandwidth Telehealth
 
